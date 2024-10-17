@@ -7,7 +7,6 @@
   list-style: none;
   border: none;
   box-sizing: border;
-  overflow: hidden;
 }
 .header {
   max-width: 1120px;
