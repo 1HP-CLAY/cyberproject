@@ -1,0 +1,122 @@
+{
+  "caterogy": [
+    {
+      "img": "./imgs/Phones.png",
+      "title": "Phones",
+      "id": 1
+    },
+    {
+      "img": "./imgs/watches.png",
+      "title": "Watches",
+      "id": 2
+    },
+    {
+      "img": "./imgs/Cameras.png",
+      "title": "Cameras",
+      "id": 3
+    },
+    {
+      "img": "./imgs/Headphones.png",
+      "title": "Headphones",
+      "id": 4
+    },
+    {
+      "img": "./imgs/Computers.png",
+      "title": "Computers",
+      "id": 5
+    },
+    {
+      "img": "./imgs/Gaming.png",
+      "title": "Gaming",
+      "id": 6
+    }
+  ],
+  "arrival": [
+    {
+      "img": "./imgs/Iphone.png",
+      "title": "Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)",
+      "price": 900,
+      "btn": "Buy Now",
+      "id": 1
+    },
+    {
+      "img": "./imgs/camera1.png",
+      "title": "Blackmagic Pocket Cinema Camera 6k",
+      "price": 2535,
+      "btn": "Buy Now",
+      "id": 2
+    },
+    {
+      "img": "./imgs/wotchs.png",
+      "title": "Apple Watch Series 9 GPS 41mm Starlight Aluminium Case",
+      "price": 399,
+      "btn": "Buy Now",
+      "id": 3
+    },
+    {
+      "img": "./imgs/pods.png",
+      "title": "AirPods Max Silver",
+      "price": 549,
+      "btn": "Buy Now",
+      "id": 4
+    },
+    {
+      "img": "./imgs/watchsmart.png",
+      "title": "Samsung Galaxy Watch6 Classic 47mm Black",
+      "price": 369,
+      "btn": "Buy Now",
+      "id": 5
+    },
+    {
+      "img": "./imgs/zflid.png",
+      "title": "Galaxy Z Fold5 Unlocked | 256GB | Phantom Black",
+      "price": 1799,
+      "btn": "Buy Now",
+      "id": 6
+    },
+    {
+      "img": "./imgs/air.png",
+      "title": "Galaxy Buds FE Graphite",
+      "price": 99.99,
+      "btn": "Buy Now",
+      "id": 7
+    },
+    {
+      "img": "./imgs/panshet.png",
+      "title": "Apple iPad 9 10.2 64GB Wi-Fi Silver (MK2L3) 2021",
+      "price": 398,
+      "btn": "Buy Now",
+      "id": 7
+    }
+  ],
+  "pop": [
+    {
+      "img": "./imgs/prod.png",
+      "title": "Popular Products",
+      "text": "iPad combines a magnificent 10.2-inch Retina display, incredible performance, multitasking and ease of use.",
+      "btn": "Shop Now",
+      "id": 1
+    },
+    {
+      "img": "./imgs/aipad.png",
+      "title": "Ipad Pro",
+      "text": "iPad combines a magnificent 10.2-inch Retina display, incredible performance, multitasking and ease of use.",
+      "btn": "Shop Now",
+      "id": 2
+    },
+    {
+      "img": "./imgs/zflod.png",
+      "title": "Samsung Galaxy",
+      "text": "iPad combines a magnificent 10.2-inch Retina display, incredible performance, multitasking and ease of use.",
+      "btn": "Shop Now",
+      "id": 3
+    },
+    {
+      "img": "./imgs/mac.png",
+      "title": "Macbook Pro",
+      "text": "iPad combines a magnificent 10.2-inch Retina display, incredible performance, multitasking and ease of use.",
+      "btn": "Shop Now",
+      "id": 4
+    }
+  ]
+}
