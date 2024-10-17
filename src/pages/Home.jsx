@@ -5,9 +5,9 @@ import ochki from "../assets/ochki.svg";
 import nout from "../assets/nout.svg";
 import Fetch from "../server/Fetch";
 function Home() {
-  const { cate } = Fetch("http://localhost:8000/caterogy");
-  const { arr } = Fetch("http://localhost:8000/arrival");
-  const { pro } = Fetch("http://localhost:8000/pop");
+  const { cate } = Fetch("https://c0bf82d05fc88777.mokky.dev/category");
+  const { arr } = Fetch("https://c0bf82d05fc88777.mokky.dev/arrival");
+  const { pro } = Fetch("https://c0bf82d05fc88777.mokky.dev/pop");
   return (
     <>
       <div className="home-wrap">
@@ -119,7 +119,7 @@ function Home() {
                 <div key={e.id} className="arr-card">
                   <img src={e.img} alt="" className="arr-card-img" />
                   <div className="like-box">
-                    <i class="bx bx-heart"></i>
+                    <i className="bx bx-heart"></i>
                   </div>
                   <h4 className="arr-card-title">{e.title}</h4>
                   <span className="arr-price">${e.price}</span>
