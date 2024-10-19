@@ -172,6 +172,8 @@
   align-items: center;
   justify-content: space-between;
 }
+/* hello */
+/* dakjsnkas */
 .tools-t-box {
   display: flex;
   align-items: center;
@@ -186,7 +188,6 @@
   font-size: 49px;
   font-weight: 500;
 }
-
 .tools-t-text {
   color: rgb(145, 145, 145);
   font-size: 14px;
@@ -301,7 +302,6 @@
   font-size: 24px;
   font-weight: 500;
 }
-
 .cat-cards {
   gap: 32px;
   display: grid;
@@ -391,9 +391,15 @@
 .product-cards {
   display: grid;
   align-items: center;
-  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
+  margin-top: 25px;
 }
 .pro-card {
   background: rgb(249, 249, 249);
   padding: 32px 56px;
+  width: 260px;
+  margin: auto;
+}
+.pro-card img {
+  width: 100%;
 }
